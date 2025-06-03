@@ -36,6 +36,11 @@ Professor: Dr. Miguel Fransisco Remolona
 - Computational Graphs in Neural Networks
 - Transformer-based NLP modeling
 
+## Course Syllabus
+
+You can view the course syllabus here:  
+[AI 211 Syllabus.pdf](./AI%20211%20Syllabus.pdf)
+
 ## Author
 
 **Jeryl Salas**  
