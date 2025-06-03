@@ -39,7 +39,7 @@ Professor: Dr. Miguel Fransisco Remolona
 ## Course Syllabus
 
 You can view the course syllabus here:  
-[AI 211 Syllabus.pdf](./AI%20211%20Syllabus.pdf)
+**[AI 211 Syllabus.pdf](./AI%20211%20Syllabus.pdf)** – Full syllabus for the AI foundations course.
 
 ## Author
 
